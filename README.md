@@ -3,6 +3,8 @@ Data Science Course HIT 2023 | Aiden Kaminsky
 
 link to video in youtube: https://youtu.be/ZtOZFyZA3mE
 
+link to nbviewer: https://nbviewer.org/github/AidenK-GH/Data_Science__Predict_Laptop_Price/blob/main/scraping_from_amazon_Jan_2023.ipynb
+
 In this project I web scrap data from Amazon, about laptops. orgenize and clean it, and than put it into machine learning.
 I only search for 5 brands, as to have enoghf data on each to make a graphs, those brand are: Apple, HP, Dell, Lenovo and ASUS.
 
